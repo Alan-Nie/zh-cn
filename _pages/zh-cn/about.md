@@ -28,8 +28,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2013.09 - 2019.09*, <a href="https://www.tsinghua.edu.cn/"><img class="svg" src="/images/THU_logo.svg" width="23pt"></a> 清华大学 计算机科学与技术系,  北京海淀,   博士 
-- *2009.09 - 2013.06*, <a href="https://www.jlu.edu.cn/"><img class="jpeg" src="/images/JLU_logo.jpeg" width="20pt"></a> 吉林大学 计算机科学与技术系,   吉林长春,   本科
+- *2013.09 - 2019.09*, <a href="https://www.tsinghua.edu.cn/"><img class="svg" src="/zh-cn/images/THU_logo.svg" width="23pt"></a> 清华大学 计算机科学与技术系,  北京海淀,   博士 
+- *2009.09 - 2013.06*, <a href="https://www.jlu.edu.cn/"><img class="jpeg" src="/zh-cn/images/JLU_logo.jpeg" width="20pt"></a> 吉林大学 计算机科学与技术系,   吉林长春,   本科
  
 <span class='anchor' id='-lwzl'></span>
 
