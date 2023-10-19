@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-现任必示科技产品部总监，高级算法专家，清华大学计算机系博士、博士后。专注于用AI技术赋能IT运维领域，打造世界领先的智能运维（AIOps）引擎，在JSAC、TON、ESEC/FSE、KDD等CCF A类国际会议期刊发表过多篇文章，参与过60多家银行、证券、运营商企业的智能运维项目实施落地。
+现任必示科技产品部总监，高级算法专家，清华大学计算机系博士、博士后。专注于用AI技术赋能IT运维领域，打造世界领先的智能运维（AIOps）引擎，在JSAC、TON、ESEC/FSE、KDD等CCF A类国际会议期刊发表过多篇文章，参与过40多家银行、证券、运营商企业的智能运维项目实施落地。
 
 主要研究领域包括：
 - 异常检测（Anomaly detection）

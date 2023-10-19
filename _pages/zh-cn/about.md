@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
----现任必示科技产品部总监，算法研究员，清华大学计算机系博士、博士后。专注于用AI技术赋能IT运维领域，打造世界领先的智能运维（AIOps）引擎，在JSAC、TON、ESEC/FSE、KDD等CCF A类国际会议期刊发表过多篇文章，参与过60多家银行、证券、运营商企业的智能运维项目实施落地。
+---现任必示科技产品部总监，算法研究员，清华大学计算机系博士、博士后。专注于用AI技术赋能IT运维领域，打造世界领先的智能运维（AIOps）引擎，在JSAC、TON、ESEC/FSE、KDD等CCF A类国际会议期刊发表过多篇文章，参与过40多家银行、证券、运营商企业的智能运维项目实施落地。
 
 主要研究领域包括：
 - 异常检测（Anomaly detection）
@@ -98,11 +98,15 @@ redirect_from:
 - 刘大鹏,`聂晓辉`, 朱晶, 王耀. 一种自动化异常实体定位分析方法. 中国发明专利号: CN110837953A. 
 - `聂晓辉`,章淼,吴功伟,张继洋. 一种TCP初始窗口优化方法和系统. 中国发明专利号: CN108111430B. 
 
-<!-- <span class='anchor' id='-ryjx'></span>
+<span class='anchor' id='-ryjx'></span>
 # 🏅 荣誉奖项
-- *2021.10* 获得 清华大学优秀博士后
-- *2014.10* 获得 清华大学三星奖学金
-- *2012.10* 获得 国家励志奖学金 -->
+- 2021 年 10 月 获得 清华大学优秀博士后
+- 2014 年 9 月 清华大学三星奖学金
+- 2013 年 6 月 吉林大学优秀毕业生
+- 2012 年 11 月 吉林大学校优秀学生
+- 2011 年 11 月 国家励志奖学金
+- 2010 年 11 月 国家励志奖学金
+
 
 
 <!-- <span class='anchor' id='-xshy'></span> -->
