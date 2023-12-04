@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 ---
-现任必示科技算法研究员、产品部总监，清华大学计算机系博士，研究领域包括智能运维 (AIOps)、网络性能优化等，主要利用 AI 技 术赋能 IT 系统的运维监控、告警分析、故障定位、性能优化等方向，进一步提升 IT 系统稳定性和性能。总计发表论文 20 篇，其中在 JSAC、TON、KDD、ESEC/FSE 等 CCF A/B 类国际会议或期刊上发表 13 篇文章, 申请并授权国家发明专利 5 项，研制的智能运维系统在建设银行、中国移动、百度等 40 多家银行、证券、运营商、互联网等企业实施落地并取得 良好效果，项目总金额达 6000 万以上。
+现任必示科技算法研究员、产品部总监，清华大学计算机系博士，研究领域包括智能运维 (AIOps)、网络性能优化等，主要利用 AI 技 术赋能IT系统的运维监控、告警分析、故障定位、性能优化等方向，进一步提升 IT 系统稳定性和性能。总计发表论文 20 篇，其中在 JSAC、TON、KDD、ESEC/FSE 等 CCF A/B 类国际会议或期刊上发表 13 篇文章, 申请并授权国家发明专利 5 项，研制的智能运维系统在建设银行、中国移动、百度等 40 多家银行、证券、运营商、互联网等企业实施落地并取得良好效果。
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2013.09 - 2019.09*, <a href="https://www.tsinghua.edu.cn/"><img class="svg" src="/images/THU_logo.svg" width="23pt"></a> 清华大学 计算机科学与技术系,  北京海淀,   博士，导师：赵有健教授和裴丹教授 
-- *2009.09 - 2013.06*, <a href="https://www.jlu.edu.cn/"><img class="jpeg" src="/images/JLU_logo.jpeg" width="20pt"></a> 吉林大学 计算机科学与技术系,   吉林长春,   本科
+- *2013.09 - 2019.09*, <a href="https://www.tsinghua.edu.cn/"><img class="svg" src="/images/THU_logo.svg" width="23pt"></a> 清华大学 计算机科学与技术系, 北京海淀, 博士, 导师: 赵有健教授和裴丹教授 
+- *2009.09 - 2013.06*, <a href="https://www.jlu.edu.cn/"><img class="jpeg" src="/images/JLU_logo.jpeg" width="20pt"></a> 吉林大学 计算机科学与技术系, 吉林长春, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
