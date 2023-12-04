@@ -22,7 +22,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2013.09 - 2019.09*, <a href="https://www.tsinghua.edu.cn/"><img class="svg" src="/images/THU_logo.svg" width="23pt"></a> 清华大学 计算机科学与技术系,  北京海淀,   博士 
+- *2013.09 - 2019.09*, <a href="https://www.tsinghua.edu.cn/"><img class="svg" src="/images/THU_logo.svg" width="23pt"></a> 清华大学 计算机科学与技术系,  北京海淀,   博士，导师：赵有健教授和裴丹教授 
 - *2009.09 - 2013.06*, <a href="https://www.jlu.edu.cn/"><img class="jpeg" src="/images/JLU_logo.jpeg" width="20pt"></a> 吉林大学 计算机科学与技术系,   吉林长春,   本科
  
 <span class='anchor' id='-lwzl'></span>
@@ -106,7 +106,7 @@ redirect_from:
 - *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
 - *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊 -->
 
-### 科研项目
+#  科研项目
 1. 国家自然科学基金项目: 面向多模态监控数据的微服务无监督异常检测与定位，57 万元，2021/1/1-2024/12/31，第二参与者.
 2. 国家自然科学基金项目: 基于大数据分析的互联网服务性能管理体系结构研究，86 万元，2015/1/1-2018/12/31，第三参与者.
 3. 中国移动联合研究院合作项目:网络感知和诊断技术，212.52 万元，2021/7/6-2021/12/31，第四参与者.
