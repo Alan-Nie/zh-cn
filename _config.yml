@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "聂晓辉"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "必示科技有限公司"
+  bio              : "副研究员"
   location         : "北京 海淀"
-  employer         : "Bizseer"
+  employer         : "中科院网络信息中心"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=i2G0h7sAAAAJ"
-  email            : "niexiaohui@bizseer.com"
+  email            : "xhnie@cnic.cn"
   # researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
